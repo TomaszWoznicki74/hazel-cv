@@ -156,3 +156,21 @@ body{
     color: gray;
     margin-bottom: 32px;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 64px;
+}
+
+footer i{
+    font-size: 1rem;
+    margin-left: 8px;
+}
+
+footer img{
+    width: 2rem;
+    height: 2rem;
+    margin: 0 8px;
+}
